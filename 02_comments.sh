@@ -3,3 +3,10 @@
 echo "Checking comments "
 
 #This ia a single line comment
+
+<<comment
+this
+is 
+multi
+line comments 
+comment
