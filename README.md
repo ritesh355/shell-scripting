@@ -1,3 +1,4 @@
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ritesh355&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6" alt="GitHub Trophies" />
+  <img src="https://streak-stats.demolab.com?user=ritesh355&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Streak" />
 </p>
